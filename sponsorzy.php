@@ -63,20 +63,6 @@
               </div>
             </div>
 
-            <div class="col-md-6 article">
-              <div class="article-content">
-                <div class="col-md-6">
-                  <a href="http://www.sensorwag.com.pl" target="_blank"><img src="css/s_sensorwag.png" alt="article" width="100%" /></a>
-                </div>
-                <div class="col-md-6" style="text-align: justify;vertical-align: middle;">
-                    <b>Sensorwag</b><br>
-                    Tel.  62 738 76 74<br>
-                    e-mail:  biuro@sensorwag.com.pl<br>
-                    ul. Przeskok 53<br>
-                    63-400 Ostrów Wielkopolski<br>
-                </div>
-              </div>
-            </div>
 
           </div>
           <div class="row">
@@ -211,6 +197,15 @@
             </div>
 
           </div>
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133179443-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133179443-1');
+</script>
        
 
 

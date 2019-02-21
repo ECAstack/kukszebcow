@@ -1,4 +1,14 @@
-<?php 
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133179443-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133179443-1');
+</script><?php 
   $title = 'KUKS - zawodnicy';
   include('header.php');
 ?>
@@ -132,5 +142,15 @@
                   </div>
               </div>
           </div>
+
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133179443-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133179443-1');
+</script>
 
 <?php include('footer.php'); ?> 

@@ -11,13 +11,13 @@
               <a href="http://www.melikan.pl" target="_blank"><img src="css/s_melikan.png" alt="sponsor"  width="100%" /></a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-4">
-              <a href="http://www.sensorwag.com.pl" target="_blank"><img src="css/s_sensorwag.png" alt="sponsor"  width="100%" /></a>
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-4">
               <a href="http://www.meblewozniak.com.pl" target="_blank"><img src="css/s_wozniak.png" alt="sponsor"  width="100%" /></a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-4">
               <a href="http://opal-bud.pl" target="_blank"><img src="css/s_opalbud.png" alt="sponsor" width="100%" /></a>
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-4">
+              <a href="#" target="_blank"><img src="css/s_glinkowski.png" alt="sponsor" width="100%" /></a>
             </div>
           </div>
           <div class="row sponsorzy">
@@ -27,9 +27,7 @@
             <div class="col-md-2 col-sm-4 col-xs-4">
               <a href="http://www.mzk-ostrow.com.pl" target="_blank"><img src="css/s_mzk.png" alt="sponsor" width="100%" /></a>
             </div>
-            <div class="col-md-2 col-sm-4 col-xs-4">
-              <a href="#" target="_blank"><img src="css/s_glinkowski.png" alt="sponsor" width="100%" /></a>
-            </div>
+
 
           </div>
           <?php } ?>

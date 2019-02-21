@@ -32,6 +32,8 @@ $text = '<b>Siedziba klubu:</b>
 		Paweł Zadka
 		Wojciech Cierniak
 		Michał Garbarczyk
+
+
 		
  ';
 

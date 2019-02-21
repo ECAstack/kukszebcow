@@ -22,6 +22,10 @@
               <div class="article-content">
                 <div class="col-md-4 article-img">
                   <img src="<?php echo $img_src;?>" alt="article" width="100%" />
+                  <p>
+                  <strong>Napisz do nas:</strong>
+                  <a href="mailto:spkukszebcow@gmail.com?Subject=Temat%20maila" target="_top">E-mail</a>
+                  </p>
                 </div>
                 <div class="col-md-8" style="text-align: center;">
                     <?php
@@ -37,6 +41,15 @@
 
             </div>
           </div>
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133179443-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133179443-1');
+</script>
 
           <style>
             .article-content p {
